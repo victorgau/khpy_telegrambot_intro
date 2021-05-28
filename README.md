@@ -10,11 +10,14 @@
 ### 練習：
 
 * echo bot
+* 傳送文字訊息
+* 傳送圖片訊息
 * 股票(報價, 新聞)機器人
 
 ### 相關網址：
 
 * [Telegram Messenger](https://telegram.org/)
 * [BotFather](https://t.me/botfather)
+* [Telegram APIs](https://core.telegram.org/api)
 * [Bot Code Examples](https://core.telegram.org/bots/samples)
 * [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot)
